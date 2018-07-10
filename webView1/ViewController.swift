@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-  
+  var name = 20
     @IBOutlet weak var webViewObj: UIWebView!
     override func viewDidLoad() {
         super.viewDidLoad()
