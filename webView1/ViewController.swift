@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
   var name = 20
+    var name1 = "Dhana"
     @IBOutlet weak var webViewObj: UIWebView!
     override func viewDidLoad() {
         super.viewDidLoad()
